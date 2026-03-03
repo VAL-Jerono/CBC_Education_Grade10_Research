@@ -1,0 +1,167 @@
+source,target,weight,shared_themes
+mwangombe21,mohamed22,2,"['preparedness', 'training']"
+mwangombe21,ngeno23,1,['training']
+mwangombe21,muchira23,1,['training']
+mwangombe21,wasanga22,1,['training']
+mwangombe21,mogere25,1,['preparedness']
+mwangombe21,mackatiani23,2,"['preparedness', 'training']"
+mwangombe21,knut22,1,['training']
+mwangombe21,cheruiyot24,2,"['readiness', 'training']"
+mwangombe21,kailo25,1,['training']
+mwangombe21,keter25,1,['preparedness']
+mwangombe21,garissa25,1,['training']
+mwangombe21,ijriss25,2,"['readiness', 'preparedness']"
+mwangombe21,momanyi19,2,"['readiness', 'preparedness']"
+mwangombe21,njiru24,1,['training']
+mwangombe21,pwper23,1,['preparedness']
+mwangombe21,tsc_plan,1,['training']
+mwangombe21,bandura97,1,['readiness']
+mwangombe21,darling19,1,['readiness']
+mwangombe21,YOUR_STUDY,2,"['preparedness', 'training']"
+mohamed22,ngeno23,1,['training']
+mohamed22,muchira23,1,['training']
+mohamed22,wasanga22,1,['training']
+mohamed22,mogere25,1,['preparedness']
+mohamed22,mackatiani23,2,"['preparedness', 'training']"
+mohamed22,knut22,1,['training']
+mohamed22,cheruiyot24,1,['training']
+mohamed22,kailo25,2,"['PCK', 'training']"
+mohamed22,keter25,2,"['PCK', 'preparedness']"
+mohamed22,garissa25,1,['training']
+mohamed22,ijriss25,1,['preparedness']
+mohamed22,momanyi19,1,['preparedness']
+mohamed22,maluha24,2,"['PCK', 'pedagogy']"
+mohamed22,njiru24,1,['training']
+mohamed22,pwper23,1,['preparedness']
+mohamed22,tsc_plan,1,['training']
+mohamed22,kicd_designs,1,['PCK']
+mohamed22,shulman86,2,"['PCK', 'pedagogy']"
+mohamed22,darling19,1,['pedagogy']
+mohamed22,YOUR_STUDY,3,"['PCK', 'preparedness', 'training']"
+ngeno23,muchira23,1,['training']
+ngeno23,wasanga22,2,"['implementation', 'training']"
+ngeno23,mackatiani23,2,"['implementation', 'training']"
+ngeno23,knut22,1,['training']
+ngeno23,cheruiyot24,1,['training']
+ngeno23,kailo25,1,['training']
+ngeno23,keter25,1,['implementation']
+ngeno23,garissa25,1,['training']
+ngeno23,ijriss25,1,['stakeholders']
+ngeno23,maluha24,1,['implementation']
+ngeno23,njiru24,2,"['implementation', 'training']"
+ngeno23,pwper23,1,['implementation']
+ngeno23,tsc_plan,1,['training']
+ngeno23,fullan07,1,['implementation']
+ngeno23,YOUR_STUDY,2,"['implementation', 'training']"
+muchira23,wasanga22,1,['training']
+muchira23,mackatiani23,1,['training']
+muchira23,knut22,1,['training']
+muchira23,cheruiyot24,1,['training']
+muchira23,kailo25,1,['training']
+muchira23,garissa25,1,['training']
+muchira23,njiru24,2,"['gaps', 'training']"
+muchira23,pwper23,1,['policy']
+muchira23,tsc_plan,2,"['training', 'policy']"
+muchira23,fullan07,1,['policy']
+muchira23,YOUR_STUDY,1,['training']
+wasanga22,mackatiani23,2,"['implementation', 'training']"
+wasanga22,knut22,1,['training']
+wasanga22,cheruiyot24,1,['training']
+wasanga22,kailo25,1,['training']
+wasanga22,keter25,1,['implementation']
+wasanga22,garissa25,1,['training']
+wasanga22,maluha24,1,['implementation']
+wasanga22,njiru24,2,"['implementation', 'training']"
+wasanga22,pwper23,1,['implementation']
+wasanga22,tsc_plan,1,['training']
+wasanga22,fullan07,1,['implementation']
+wasanga22,YOUR_STUDY,2,"['implementation', 'training']"
+mogere25,mackatiani23,1,['preparedness']
+mogere25,keter25,1,['preparedness']
+mogere25,ijriss25,1,['preparedness']
+mogere25,momanyi19,1,['preparedness']
+mogere25,pwper23,1,['preparedness']
+mogere25,tsc_plan,1,['deployment']
+mogere25,kicd_designs,2,"['pathways', 'SSS']"
+mogere25,YOUR_STUDY,3,"['pathways', 'SSS', 'preparedness']"
+mackatiani23,knut22,1,['training']
+mackatiani23,cheruiyot24,1,['training']
+mackatiani23,kailo25,1,['training']
+mackatiani23,keter25,2,"['implementation', 'preparedness']"
+mackatiani23,garissa25,1,['training']
+mackatiani23,ijriss25,1,['preparedness']
+mackatiani23,momanyi19,1,['preparedness']
+mackatiani23,maluha24,1,['implementation']
+mackatiani23,njiru24,2,"['implementation', 'training']"
+mackatiani23,pwper23,2,"['implementation', 'preparedness']"
+mackatiani23,tsc_plan,1,['training']
+mackatiani23,fullan07,1,['implementation']
+mackatiani23,YOUR_STUDY,3,"['preparedness', 'implementation', 'training']"
+knut22,cheruiyot24,1,['training']
+knut22,kailo25,1,['training']
+knut22,garissa25,1,['training']
+knut22,njiru24,1,['training']
+knut22,tsc_plan,1,['training']
+knut22,YOUR_STUDY,1,['training']
+cheruiyot24,kailo25,1,['training']
+cheruiyot24,garissa25,2,"['infrastructure', 'training']"
+cheruiyot24,ijriss25,1,['readiness']
+cheruiyot24,momanyi19,1,['readiness']
+cheruiyot24,njiru24,1,['training']
+cheruiyot24,tsc_plan,1,['training']
+cheruiyot24,bandura97,1,['readiness']
+cheruiyot24,darling19,1,['readiness']
+cheruiyot24,YOUR_STUDY,1,['training']
+kailo25,keter25,1,['PCK']
+kailo25,garissa25,1,['training']
+kailo25,maluha24,1,['PCK']
+kailo25,njiru24,1,['training']
+kailo25,tsc_plan,1,['training']
+kailo25,kicd_designs,1,['PCK']
+kailo25,shulman86,1,['PCK']
+kailo25,YOUR_STUDY,2,"['PCK', 'training']"
+keter25,ijriss25,1,['preparedness']
+keter25,momanyi19,1,['preparedness']
+keter25,maluha24,2,"['PCK', 'implementation']"
+keter25,njiru24,2,"['implementation', 'profdev']"
+keter25,pwper23,2,"['implementation', 'preparedness']"
+keter25,tsc_plan,1,['profdev']
+keter25,kicd_designs,1,['PCK']
+keter25,shulman86,1,['PCK']
+keter25,fullan07,1,['implementation']
+keter25,YOUR_STUDY,3,"['PCK', 'implementation', 'preparedness']"
+garissa25,njiru24,1,['training']
+garissa25,tsc_plan,1,['training']
+garissa25,YOUR_STUDY,2,"['equity', 'training']"
+ijriss25,momanyi19,2,"['readiness', 'preparedness']"
+ijriss25,pwper23,1,['preparedness']
+ijriss25,bandura97,2,"['attitudes', 'readiness']"
+ijriss25,darling19,1,['readiness']
+ijriss25,YOUR_STUDY,1,['preparedness']
+momanyi19,pwper23,1,['preparedness']
+momanyi19,bandura97,1,['readiness']
+momanyi19,darling19,1,['readiness']
+momanyi19,YOUR_STUDY,1,['preparedness']
+maluha24,njiru24,1,['implementation']
+maluha24,pwper23,1,['implementation']
+maluha24,kicd_designs,1,['PCK']
+maluha24,shulman86,2,"['PCK', 'pedagogy']"
+maluha24,fullan07,1,['implementation']
+maluha24,darling19,2,"['practice', 'pedagogy']"
+maluha24,YOUR_STUDY,2,"['PCK', 'implementation']"
+njiru24,pwper23,1,['implementation']
+njiru24,tsc_plan,2,"['profdev', 'training']"
+njiru24,fullan07,1,['implementation']
+njiru24,YOUR_STUDY,2,"['implementation', 'training']"
+pwper23,tsc_plan,1,['policy']
+pwper23,fullan07,3,"['reform', 'implementation', 'policy']"
+pwper23,YOUR_STUDY,2,"['implementation', 'preparedness']"
+tsc_plan,fullan07,1,['policy']
+tsc_plan,YOUR_STUDY,1,['training']
+kicd_designs,shulman86,1,['PCK']
+kicd_designs,YOUR_STUDY,3,"['PCK', 'pathways', 'SSS']"
+shulman86,darling19,2,"['framework', 'pedagogy']"
+shulman86,YOUR_STUDY,1,['PCK']
+bandura97,darling19,1,['readiness']
+bandura97,YOUR_STUDY,1,['self_efficacy']
+fullan07,YOUR_STUDY,1,['implementation']
