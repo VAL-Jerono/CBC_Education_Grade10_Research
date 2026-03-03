@@ -5,7 +5,7 @@
 
 ## Theoretical Anchors
 
-This study is grounded in three complementary theories:
+This study is gro unded in three complementary theories:
 
 | Theory | Author | What it explains in this study |
 |---|---|---|
